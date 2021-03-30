@@ -1,0 +1,142 @@
+code {
+	font-family : "Courier New", Courier, monospace; 
+/*	font-family : "Lucida Console", "Courier New", Courier, monospace;
+	font-size : 10pt;  
+	font-size : small;  */
+	font-size : x-small;  
+	white-space: nowrap;
+}
+h5,table  /* for NS */
+{
+/*	font-size : 10pt;  */
+	font-size : x-small;   
+/*	font-size : small;   */
+	FONT-FAMILY: Arial, Helvetica, sans-serif;  
+/*        font-family: Verdana, Arial, Helvetica, sans-serif;  */
+}
+
+body
+{
+/*	font-size : 10pt;  */
+	font-size : x-small;  
+/*	font-size : small;  */
+	MARGIN-LEFT: 4pt;
+	MARGIN-RIGHT: 1in;
+	FONT-FAMILY: Arial, Helvetica, sans-serif; 
+/*        font-family: Verdana, Arial, Helvetica, sans-serif; */
+}
+
+a:visited {
+	color : Blue;
+}
+
+.larger
+{
+	FONT-WEIGHT: bold;
+	TEXT-TRANSFORM: uppercase;
+	FONT-VARIANT: small-caps;
+/*	font-size : 12pt;  */
+	font-size : small;  
+}
+.greek
+{
+    FONT-WEIGHT: bolder;
+    FONT-STYLE: italic;
+    FONT-FAMILY: Symbol
+}
+.sgreek
+{
+    FONT-WEIGHT: bolder;
+    FONT-FAMILY: Symbol
+}
+.times
+{
+    FONT-SIZE: 12pt;
+    FONT-FAMILY: 'Times New Roman'
+}
+OL
+{
+}
+pre
+{
+/*padding: 4px; 
+width: auto; 
+margin: auto; 
+font-family: Courier; 
+border-style: solid; 
+border-width: 1; 
+white-space: pre; 
+background-color: #fffff7; */
+/*	font-size : 10pt;  */
+/*	font-size : small;  */
+	font-size : x-small;  
+    font-family: "Courier New", Courier, mono 
+/*	font-family : "Lucida Console", "Courier New", Courier, monospace;*/
+}
+UL
+{
+    LIST-STYLE-TYPE: circle
+}
+
+.copyright {
+/*	font-size : 8pt;  */
+	font-size : xx-small;  
+	margin-bottom : 0px;
+}
+
+
+.erwin 
+{  
+    padding-top: 2px; 
+    padding-right: 0px; 
+    padding-bottom: 2px; 
+    padding-left: 0px; 
+    font-size: 11px; 
+    text-align: left; 
+    border-style: none
+}
+.lectopic 
+{  
+/*  font-size : 10pt;  */
+    font-size : x-small;  
+    padding-left: 10pt;
+}
+.abc 
+{
+    list-style-type: lower-alpha
+}
+.gray 
+{  
+    color: #999999
+}
+.htmlc 
+{
+	color: Maroon;
+}
+.ex 
+{
+	color: #3A6EA5;
+	font-style: italic; 
+	font-family: monospace;
+}
+.reg 
+{
+	color: #3A6EA5;
+	font-style : italic;
+}
+
+.box { text-align:center;
+  font-weight:bold;
+  background-color:lightblue;
+  padding:3px;
+  border:solid black 1px;
+  width:200px;
+}
+
+/*
+p:first-line {font-style: italic;}
+a {text-decoration: none;}
+a:hover {text-decoration: underline;}
+* { background-color: red; }
+*/
+
